@@ -5,12 +5,25 @@ repo: gd1214b-uptime # The name of this repository
 sites:
   - name: gd1214b's blog
     url: https://blog.gd1214b.icu
+     
   - name: gd1214b图床
     url: https://figurebed.gd1214b.tk
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 503
   - name: gd1214b随机密码生成器  
     url: https://password.gd1214b.tk
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 503
   - name: gd1214b-2048-game
     url: http://2048.gd1214b.tk
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 503
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
