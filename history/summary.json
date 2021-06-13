@@ -10,71 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 299,
+    "timeDay": 299,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "gd1214b图床",
-    "url": "https://figurebed.gd1214b.tk",
-    "icon": "https://favicons.githubusercontent.com/figurebed.gd1214b.tk",
-    "slug": "gd1214b",
-    "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
-    "time": 769,
-    "timeDay": 769,
-    "timeWeek": 769,
-    "timeMonth": 769,
-    "timeYear": 769,
-    "dailyMinutesDown": {
-      "2021-06-13": 9
-    }
-  },
-  {
-    "name": "2048小游戏",
-    "url": "https://2048.gd1214b.tk",
-    "icon": "https://favicons.githubusercontent.com/2048.gd1214b.tk",
-    "slug": "2048",
-    "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {
-      "2021-06-13": 9
-    }
-  },
-  {
-    "name": "gd1214b随机密码生成器",
-    "url": "https://password.gd1214b.tk",
-    "icon": "https://favicons.githubusercontent.com/password.gd1214b.tk",
-    "slug": "gd1214b",
-    "status": "down",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
-    "time": 769,
-    "timeDay": 769,
-    "timeWeek": 769,
-    "timeMonth": 769,
-    "timeYear": 769,
-    "dailyMinutesDown": {
-      "2021-06-13": 9
-    }
   }
 ]
