@@ -6,14 +6,18 @@ sites:
   - name: gd1214b's blog
     url: https://blog.gd1214b.icu
   - name: gd1214b图床
-     url: https://figurebed.gd1214b.tk
+    url: https://figurebed.gd1214b.tk
+  - name: 2048小游戏
+    url: https://2048.gd1214b.tk
+  - name: gd1214b随机密码生成器
+    url: https://password.gd1214b.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gd1214b.tk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/upptime/upptime.js.org@master/static/img/icon.svg
   name: gd1214b服务状态监控
   introTitle: " "
   introMessage: 
