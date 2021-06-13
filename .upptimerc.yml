@@ -9,7 +9,7 @@ sites:
     url: https://figurebed.gd1214b.tk
   - name: gd1214b随机密码生成器  
     url: https://password.gd1214b.tk
-  - name: 2048
+  - name: gd1214b-2048-game
     url: http://2048.gd1214b.tk
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
