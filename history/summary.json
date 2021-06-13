@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 313,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://figurebed.gd1214b.tk",
     "icon": "https://favicons.githubusercontent.com/figurebed.gd1214b.tk",
     "slug": "gd1214b",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 879,
-    "timeDay": 879,
-    "timeWeek": 879,
-    "timeMonth": 879,
-    "timeYear": 879,
+    "time": 689,
+    "timeDay": 689,
+    "timeWeek": 689,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2021-06-13": 20
+      "2021-06-13": 26
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://password.gd1214b.tk",
     "icon": "https://favicons.githubusercontent.com/password.gd1214b.tk",
     "slug": "gd1214b",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 879,
-    "timeDay": 879,
-    "timeWeek": 879,
-    "timeMonth": 879,
-    "timeYear": 879,
+    "time": 689,
+    "timeDay": 689,
+    "timeWeek": 689,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2021-06-13": 20
+      "2021-06-13": 26
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "http://2048.gd1214b.tk",
     "icon": "https://favicons.githubusercontent.com/2048.gd1214b.tk",
     "slug": "gd1214b-2048-game",
-    "status": "down",
-    "uptime": "7.31%",
-    "uptimeDay": "7.31%",
-    "uptimeWeek": "7.31%",
-    "uptimeMonth": "7.31%",
-    "uptimeYear": "7.31%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2021-06-13": 0
+      "2021-06-13": 6
     }
   }
 ]
