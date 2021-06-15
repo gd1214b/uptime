@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/figurebed.gd1214b.tk",
     "slug": "gd1214b",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.12%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 449,
     "timeDay": 51,
     "timeWeek": 449,
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/password.gd1214b.tk",
     "slug": "gd1214b",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.12%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 449,
     "timeDay": 51,
     "timeWeek": 449,
@@ -80,9 +80,9 @@
     "url": "https://apibug.cn",
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 1488,
     "timeMonth": 1488,
     "timeYear": 1488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-15": 0
+    }
   }
 ]
