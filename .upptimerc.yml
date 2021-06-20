@@ -107,7 +107,6 @@ i18n:
   down: "🟥 停机"
   responseTimeGraphAlt: "响应时间图像"
 
-  responseTime: "响应时间"
   responseTimeDay: "24 小时响应时间"
   responseTimeWeek: "7 天正常运行时间"
   responseTimeMonth: "30天的正常运行时间"
