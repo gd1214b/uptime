@@ -118,7 +118,7 @@ i18n:
   uptimeYear: "1年的正常运行时间"
 
   liveStatusHtmlComment: "<！ -实时状态- >"
-  allSystemsOperational: "🟩 所有系统都可以正常运行"
+
   degradedPerformance: "🟨 性能降低"
   completeOutage: "🟥 全部停机"
   partialOutage: "🟧 部分停机"
