@@ -111,7 +111,7 @@ i18n:
   responseTimeWeek: "7 天正常运行时间"
   responseTimeMonth: "30天的正常运行时间"
   responseTimeYear: "1年的正常运行时间"
-  uptime: "所有时间正常运行时间"
+
   uptimeDay: "24 小时正常运行时间"
   uptimeWeek: "7 天正常运行时间"
   uptimeMonth: "30天的正常运行时间"
