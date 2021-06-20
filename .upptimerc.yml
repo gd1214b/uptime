@@ -69,8 +69,8 @@ i18n:
   responseTimeMs: 响应时间（毫秒）
   up: 正常运行
   down: 停机
-  degraded: 降级
-  ms: ms
+  degraded: 运行缓慢
+  ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
   footer: gd1214b保留所有权利。 Copyright © 2021 gd1214b. All Rights Reserved.
