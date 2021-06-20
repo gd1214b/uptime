@@ -67,9 +67,7 @@ i18n:
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7 天响应时间
   responseTimeMs: 响应时间（毫秒）
-  up: 正常运行
-  down: 停机
-  degraded: 运行缓慢
+ 
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
@@ -108,7 +106,7 @@ i18n:
   degraded: "🟨 运行缓慢"
   down: "🟥 停机"
   responseTimeGraphAlt: "响应时间图像"
-  ms: "毫秒"
+
   responseTime: "响应时间"
   responseTimeDay: "24 小时响应时间"
   responseTimeWeek: "7 天正常运行时间"
