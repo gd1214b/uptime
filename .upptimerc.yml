@@ -48,21 +48,21 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   activeIncidents: 活动事件
-  allSystemsOperational: 所有系统都可以运行
+  allSystemsOperational: 所有系统都可以正常运行
   incidentReport: "事件 #$NUMBER 报告 →"
   activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个帖子
   incidentTitle: 事件 $NUMBER 的详细信息
   incidentDetails: 事件详细信息
   incidentFixed: 已修复
   incidentOngoing: 正在进行
-  incidentOpenedAt: 打开于
-  incidentClosedAt: 关闭于
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
   incidentSubscribe: 订阅更新
   incidentViewOnGitHub: 在 GitHub 上查看
   incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 过去的事件
-  pastIncidentsResolved: 在 $MINUTES 分钟内解决了 $POSTS 个帖子
+  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 内得到解决
   liveStatus: 实时状态
   overallUptime: "总体正常运行时间： $UPTIME"
   overallUptimeTitle: 总体正常运行时间
