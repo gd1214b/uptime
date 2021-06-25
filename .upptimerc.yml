@@ -62,7 +62,7 @@ i18n:
   incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 过去的事件
-  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 内得到解决
+  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分钟内得到解决
   liveStatus: 实时状态
   overallUptime: "总体正常运行时间： $UPTIME"
   overallUptimeTitle: 总体正常运行时间
