@@ -32,6 +32,10 @@ sites:
     url: https://betteruptime.com/api/v1/heartbeat/eMQG26cDhNk4YdJN6tQDXiBx
   - name: Clash订阅链接转换
     url: https://subweb.gd1214b.tk/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 503
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
