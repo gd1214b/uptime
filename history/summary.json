@@ -148,18 +148,16 @@
     "icon": "https://favicons.githubusercontent.com/subweb.gd1214b.tk",
     "slug": "clash",
     "status": "up",
-    "uptime": "6.34%",
-    "uptimeDay": "6.34%",
-    "uptimeWeek": "6.34%",
-    "uptimeMonth": "6.34%",
-    "uptimeYear": "6.34%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 471,
     "timeWeek": 471,
     "timeMonth": 471,
     "timeYear": 471,
-    "dailyMinutesDown": {
-      "2021-07-08": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
