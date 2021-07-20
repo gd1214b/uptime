@@ -96,7 +96,7 @@
     "url": "https://apibug.cn",
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug",
-    "status": "up",
+    "status": "down",
     "uptime": "96.83%",
     "uptimeDay": "94.54%",
     "uptimeWeek": "97.99%",
@@ -104,7 +104,7 @@
     "uptimeYear": "96.83%",
     "time": 1634,
     "timeDay": 1304,
-    "timeWeek": 1972,
+    "timeWeek": 1971,
     "timeMonth": 1636,
     "timeYear": 1634,
     "dailyMinutesDown": {
