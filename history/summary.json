@@ -134,19 +134,19 @@
     "url": "https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8",
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug-ip",
-    "status": "down",
-    "uptime": "57.50%",
-    "uptimeDay": "57.50%",
-    "uptimeWeek": "57.50%",
-    "uptimeMonth": "57.50%",
-    "uptimeYear": "57.50%",
-    "time": 2239,
-    "timeDay": 2239,
-    "timeWeek": 2239,
-    "timeMonth": 2239,
-    "timeYear": 2239,
+    "status": "up",
+    "uptime": "54.45%",
+    "uptimeDay": "54.45%",
+    "uptimeWeek": "54.45%",
+    "uptimeMonth": "54.45%",
+    "uptimeYear": "54.45%",
+    "time": 2238,
+    "timeDay": 2238,
+    "timeWeek": 2238,
+    "timeMonth": 2238,
+    "timeYear": 2238,
     "dailyMinutesDown": {
-      "2021-07-21": 89
+      "2021-07-21": 100
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://favicons.githubusercontent.com/api.apibug.com",
     "slug": "apibug-background",
     "status": "up",
-    "uptime": "57.24%",
-    "uptimeDay": "57.24%",
-    "uptimeWeek": "57.24%",
-    "uptimeMonth": "57.24%",
-    "uptimeYear": "57.24%",
+    "uptime": "66.23%",
+    "uptimeDay": "66.23%",
+    "uptimeWeek": "66.23%",
+    "uptimeMonth": "66.23%",
+    "uptimeYear": "66.23%",
     "time": 2226,
     "timeDay": 2226,
     "timeWeek": 2226,
     "timeMonth": 2226,
     "timeYear": 2226,
     "dailyMinutesDown": {
-      "2021-07-21": 90
+      "2021-07-21": 75
     }
   }
 ]
