@@ -40,11 +40,11 @@ sites:
       - 201
       - 503
       
- - name: Apibug-IP
-   url: https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8
+  - name: Apibug-IP
+    url: https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8
     
- - name: Apibug-background
-   url: https://api.apibug.com/api/ecy/&apiKey=72c1f1258741e617b805dd938a387639
+  - name: Apibug-background
+    url: https://api.apibug.com/api/ecy/&apiKey=72c1f1258741e617b805dd938a387639
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
