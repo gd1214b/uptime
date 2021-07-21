@@ -12,36 +12,46 @@ sites:
       - 200
       - 201
       - 503
+      
   - name: gd1214b-password
     url: https://password.gd1214b.tk
     expectedStatusCodes:
       - 200
       - 201
       - 503
+      
   - name: gd1214b-2048
     url: http://2048.gd1214b.tk
     expectedStatusCodes:
       - 200
       - 201
       - 503
+      
   - name: gd1214b-uptime
     url: https://status.gd1214b.tk
-  - name: Apibug
-    url: https://apibug.cn
+    
   - name: Betteruptime
     url: https://betteruptime.com/api/v1/heartbeat/eMQG26cDhNk4YdJN6tQDXiBx
+    
   - name: Clash订阅链接转换
     url: https://subweb.gd1214b.tk/
     expectedStatusCodes:
       - 200
       - 201
       - 503
+      
+ - name: Apibug-IP
+    url: https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8
+    
+ - name: Apibug-background
+   url: https://api.apibug.com/api/ecy/&apiKey=72c1f1258741e617b805dd938a387639
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gd1214b.tk
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.jsdelivr.net/gh/upptime/upptime.js.org@master/static/img/icon.svg
+  logoUrl: https://blog.gd1214b.icu/images/avatar.png
   name: gd1214b服务状态监控
   introTitle: " "
   introMessage: 
