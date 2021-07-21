@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug-ip",
     "status": "up",
-    "uptime": "35.21%",
-    "uptimeDay": "35.21%",
-    "uptimeWeek": "35.21%",
-    "uptimeMonth": "35.21%",
-    "uptimeYear": "35.21%",
+    "uptime": "64.99%",
+    "uptimeDay": "64.99%",
+    "uptimeWeek": "64.99%",
+    "uptimeMonth": "64.99%",
+    "uptimeYear": "64.99%",
     "time": 2239,
     "timeDay": 2239,
     "timeWeek": 2239,
     "timeMonth": 2239,
     "timeYear": 2239,
     "dailyMinutesDown": {
-      "2021-07-21": 58
+      "2021-07-21": 46
     }
   },
   {
@@ -154,19 +154,19 @@
     "url": "https://api.apibug.com/api/ecy/&apiKey=72c1f1258741e617b805dd938a387639",
     "icon": "https://favicons.githubusercontent.com/api.apibug.com",
     "slug": "apibug-background",
-    "status": "down",
-    "uptime": "63.26%",
-    "uptimeDay": "63.26%",
-    "uptimeWeek": "63.26%",
-    "uptimeMonth": "63.26%",
-    "uptimeYear": "63.26%",
-    "time": 2351,
-    "timeDay": 2351,
-    "timeWeek": 2351,
-    "timeMonth": 2351,
-    "timeYear": 2351,
+    "status": "up",
+    "uptime": "43.16%",
+    "uptimeDay": "43.16%",
+    "uptimeWeek": "43.16%",
+    "uptimeMonth": "43.16%",
+    "uptimeYear": "43.16%",
+    "time": 2327,
+    "timeDay": 2327,
+    "timeWeek": 2327,
+    "timeMonth": 2327,
+    "timeYear": 2327,
     "dailyMinutesDown": {
-      "2021-07-21": 33
+      "2021-07-21": 75
     }
   }
 ]
