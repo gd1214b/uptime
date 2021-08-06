@@ -165,7 +165,7 @@
     "url": "https://api.apibug.com/api/ecy/&apiKey=72c1f1258741e617b805dd938a387639",
     "icon": "https://favicons.githubusercontent.com/api.apibug.com",
     "slug": "apibug-background",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
     "uptimeDay": "96.89%",
     "uptimeWeek": "99.56%",
