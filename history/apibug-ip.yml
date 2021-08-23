@@ -1,7 +1,7 @@
 url: https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-08-23T07:24:00.797Z
+status: up
+code: 200
+responseTime: 2644
+lastUpdated: 2021-08-23T07:35:32.047Z
 startTime: Wed Jul 21 2021 10:13:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
