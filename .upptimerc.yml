@@ -20,7 +20,7 @@ sites:
       - 201
       - 503
       
-  - name: 2048
+  - name: 2048-game
     url: http://2048.gd1214b.tk
     expectedStatusCodes:
       - 200
