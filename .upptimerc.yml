@@ -61,7 +61,7 @@ status-website:
   logoUrl: https://blog.gd1214b.icu/images/avatar.png
   name: gd1214b服务状态监控
   introTitle: " "
-  introMessage: 
+  introMessage:  如果此页面无法正常加载，请检查您的网络是否能访问GitHub。
   navbar:
     - title: gd1214b's blog
       href: https://blog.gd1214b.icu
