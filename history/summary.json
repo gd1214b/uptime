@@ -119,19 +119,19 @@
     "url": "https://subweb.gd1214b.tk/",
     "icon": "https://favicons.githubusercontent.com/subweb.gd1214b.tk",
     "slug": "clash",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 98,
-    "timeWeek": 306,
-    "timeMonth": 283,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 279,
+    "timeDay": 104,
+    "timeWeek": 281,
+    "timeMonth": 278,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-12-04": 0
+      "2021-12-04": 18
     }
   },
   {
