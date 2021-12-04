@@ -119,9 +119,9 @@
     "url": "https://subweb.gd1214b.tk/",
     "icon": "https://favicons.githubusercontent.com/subweb.gd1214b.tk",
     "slug": "clash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 306,
     "timeMonth": 283,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-04": 0
+    }
   },
   {
     "name": "Apibug-IP",
@@ -198,18 +200,17 @@
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug-background",
     "status": "up",
-    "uptime": "93.20%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "93.20%",
+    "uptime": "93.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "93.22%",
     "time": 2421,
     "timeDay": 1970,
     "timeWeek": 1893,
     "timeMonth": 2271,
     "timeYear": 2421,
     "dailyMinutesDown": {
-      "2021-12-04": 12,
       "2021-11-13": 365,
       "2021-10-19": 70,
       "2021-10-06": 36,
