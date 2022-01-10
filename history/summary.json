@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.gd1214b.icu",
     "slug": "blog",
     "status": "down",
-    "uptime": "73.32%",
+    "uptime": "73.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.65%",
-    "uptimeYear": "73.32%",
+    "uptimeMonth": "31.22%",
+    "uptimeYear": "73.20%",
     "time": 166,
     "timeDay": 120,
     "timeWeek": 97,
     "timeMonth": 119,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2022-01-10": 285,
+      "2022-01-10": 473,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
@@ -45,18 +45,19 @@
     "url": "https://figurebed.gd1214b.tk",
     "icon": "https://favicons.githubusercontent.com/figurebed.gd1214b.tk",
     "slug": "figurebed",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.96%",
     "time": 578,
     "timeDay": 227,
     "timeWeek": 356,
     "timeMonth": 610,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2022-01-10": 3,
       "2021-11-26": 19,
       "2021-11-11": 19
     }
@@ -66,11 +67,11 @@
     "url": "https://password.gd1214b.tk",
     "icon": "https://favicons.githubusercontent.com/password.gd1214b.tk",
     "slug": "password",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 397,
     "timeDay": 127,
@@ -78,6 +79,7 @@
     "timeMonth": 398,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2022-01-10": 2,
       "2021-11-11": 19
     }
   },
@@ -86,10 +88,10 @@
     "url": "http://2048.gd1214b.tk",
     "icon": "https://favicons.githubusercontent.com/2048.gd1214b.tk",
     "slug": "2048-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
@@ -97,7 +99,9 @@
     "timeWeek": 451,
     "timeMonth": 269,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 2
+    }
   },
   {
     "name": "uptime",
@@ -105,18 +109,18 @@
     "icon": "https://favicons.githubusercontent.com/status.gd1214b.tk",
     "slug": "uptime",
     "status": "down",
-    "uptime": "73.32%",
+    "uptime": "73.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.65%",
-    "uptimeYear": "73.32%",
+    "uptimeMonth": "31.22%",
+    "uptimeYear": "73.20%",
     "time": 408,
     "timeDay": 113,
     "timeWeek": 268,
     "timeMonth": 230,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-01-10": 285,
+      "2022-01-10": 473,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
@@ -165,10 +169,10 @@
     "url": "https://subweb.gd1214b.tk/",
     "icon": "https://favicons.githubusercontent.com/subweb.gd1214b.tk",
     "slug": "clash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 263,
@@ -177,6 +181,7 @@
     "timeMonth": 189,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2022-01-10": 1,
       "2022-01-07": 43,
       "2021-12-04": 18
     }
@@ -318,9 +323,9 @@
     "url": "https://drive.gd1214b.tk/",
     "icon": "https://favicons.githubusercontent.com/drive.gd1214b.tk",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -329,6 +334,8 @@
     "timeWeek": 218,
     "timeMonth": 106,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   }
 ]
