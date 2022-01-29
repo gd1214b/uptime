@@ -12,17 +12,12 @@ sites:
       
   - name: password
     url: https://password.gd1214b.tk
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 503
+
+     
       
   - name: 2048-game
     url: http://2048.gd1214b.tk
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 503
+   
       
   - name: uptime
     url: https://status.gd1214b.tk
@@ -32,11 +27,7 @@ sites:
     
   - name: Clash订阅链接转换
     url: https://subweb.gd1214b.tk/
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 503
-      
+        
   - name: Apibug-IP
     url: https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8
     
@@ -45,10 +36,7 @@ sites:
     
   - name: drive
     url: https://drive.gd1214b.tk/
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 503
+
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
