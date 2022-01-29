@@ -8,10 +8,7 @@ sites:
      
   - name: figurebed
     url: https://figurebed.gd1214b.tk
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 503
+    
       
   - name: password
     url: https://password.gd1214b.tk
