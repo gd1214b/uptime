@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/blog.gd1214b.icu",
     "slug": "blog",
     "status": "up",
-    "uptime": "81.49%",
+    "uptime": "81.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.49%",
+    "uptimeYear": "81.50%",
     "time": 197,
     "timeDay": 233,
     "timeWeek": 236,
@@ -238,9 +238,9 @@
     "url": "https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8",
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug-ip",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "70.70%",
+    "uptimeDay": "70.67%",
     "uptimeWeek": "94.94%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "98.76%",
@@ -298,8 +298,7 @@
       "2021-09-14": 15,
       "2021-09-13": 39,
       "2021-09-09": 25,
-      "2021-09-08": 51,
-      "2021-09-07": 16
+      "2021-09-08": 51
     }
   },
   {
