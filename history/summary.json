@@ -238,17 +238,17 @@
     "url": "https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8",
     "icon": "https://favicons.githubusercontent.com/apibug.cn",
     "slug": "apibug-ip",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "98.21%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "98.77%",
-    "time": 3089,
-    "timeDay": 5351,
-    "timeWeek": 3100,
-    "timeMonth": 2785,
-    "timeYear": 3089,
+    "uptimeYear": "98.78%",
+    "time": 3114,
+    "timeDay": 7434,
+    "timeWeek": 3803,
+    "timeMonth": 3005,
+    "timeYear": 3114,
     "dailyMinutesDown": {
       "2022-03-18": 70,
       "2022-03-14": 37,
@@ -303,7 +303,7 @@
       "2021-09-04": 31,
       "2021-09-03": 23,
       "2021-09-02": 67,
-      "2021-08-31": 174
+      "2021-08-31": 156
     }
   },
   {
