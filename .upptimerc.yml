@@ -9,31 +9,15 @@ sites:
   - name: figurebed
     url: https://figurebed.gd1214b.tk
     
-      
   - name: password
     url: https://password.gd1214b.tk
-
-     
       
   - name: 2048-game
     url: http://2048.gd1214b.tk
    
-      
-  - name: uptime
-    url: https://status.gd1214b.tk
-    
-  - name: Betteruptime
-    url: https://betteruptime.com/api/v1/heartbeat/eMQG26cDhNk4YdJN6tQDXiBx
-    
   - name: Clash订阅链接转换
-    url: https://subweb.gd1214b.tk/
+    url: https://subweb.gd1214b.ml/
         
-  - name: Apibug-IP
-    url: https://apibug.cn/api/ipqm/&apiKey=60829979f01d212c351a634101d764d8
-    
-  - name: Apibug-Background
-    url: https://apibug.cn/api/ecy/&apiKey=72c1f1258741e617b805dd938a387639
-    
   - name: drive
     url: https://drive.gd1214b.tk/
 
