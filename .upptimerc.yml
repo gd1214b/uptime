@@ -21,7 +21,15 @@ sites:
   - name: drive
     url: https://drive.gd1214b.tk/
 
-      
+  - name: netease-music
+    url: https://music.gd1214b.tk/
+    
+  - name: win11-react
+    url: https://win11-react.cf/
+     
+  - name: life-restart
+    url: https://liferestart.cf/public/index.html
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
