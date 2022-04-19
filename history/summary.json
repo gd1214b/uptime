@@ -203,15 +203,15 @@
     "url": "https://win11-react.cf/",
     "icon": "https://favicons.githubusercontent.com/win11-react.cf",
     "slug": "win11-react",
-    "status": "up",
-    "uptime": "80.14%",
-    "uptimeDay": "49.78%",
-    "uptimeWeek": "40.41%",
-    "uptimeMonth": "80.14%",
-    "uptimeYear": "80.14%",
+    "status": "down",
+    "uptime": "80.67%",
+    "uptimeDay": "49.76%",
+    "uptimeWeek": "40.52%",
+    "uptimeMonth": "80.67%",
+    "uptimeYear": "80.67%",
     "time": 409,
-    "timeDay": 1395,
-    "timeWeek": 616,
+    "timeDay": 1469,
+    "timeWeek": 621,
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
@@ -223,7 +223,7 @@
       "2022-04-14": 930,
       "2022-04-13": 886,
       "2022-04-12": 1106,
-      "2022-04-11": 504
+      "2022-04-11": 314
     }
   },
   {
