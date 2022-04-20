@@ -12,7 +12,7 @@
     "uptimeYear": "84.92%",
     "time": 204,
     "timeDay": 205,
-    "timeWeek": 235,
+    "timeWeek": 239,
     "timeMonth": 232,
     "timeYear": 204,
     "dailyMinutesDown": {
@@ -59,7 +59,7 @@
     "uptimeYear": "98.59%",
     "time": 571,
     "timeDay": 156,
-    "timeWeek": 304,
+    "timeWeek": 328,
     "timeMonth": 225,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -86,7 +86,7 @@
     "uptimeYear": "98.60%",
     "time": 336,
     "timeDay": 104,
-    "timeWeek": 192,
+    "timeWeek": 198,
     "timeMonth": 198,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -112,8 +112,8 @@
     "uptimeYear": "98.61%",
     "time": 320,
     "timeDay": 308,
-    "timeWeek": 380,
-    "timeMonth": 272,
+    "timeWeek": 403,
+    "timeMonth": 271,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-01-19": 827,
@@ -137,8 +137,8 @@
     "uptimeYear": "99.12%",
     "time": 235,
     "timeDay": 137,
-    "timeWeek": 326,
-    "timeMonth": 239,
+    "timeWeek": 356,
+    "timeMonth": 243,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2022-01-19": 826,
@@ -164,7 +164,7 @@
     "uptimeYear": "98.60%",
     "time": 912,
     "timeDay": 5053,
-    "timeWeek": 3697,
+    "timeWeek": 3453,
     "timeMonth": 3179,
     "timeYear": 912,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
     "uptimeYear": "99.94%",
     "time": 234,
     "timeDay": 67,
-    "timeWeek": 690,
+    "timeWeek": 776,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -203,12 +203,12 @@
     "url": "https://win11-react.cf/",
     "icon": "https://favicons.githubusercontent.com/win11-react.cf",
     "slug": "win11-react",
-    "status": "up",
-    "uptime": "81.11%",
-    "uptimeDay": "32.69%",
+    "status": "down",
+    "uptime": "81.25%",
+    "uptimeDay": "33.43%",
     "uptimeWeek": "39.38%",
-    "uptimeMonth": "81.11%",
-    "uptimeYear": "81.11%",
+    "uptimeMonth": "81.25%",
+    "uptimeYear": "81.25%",
     "time": 426,
     "timeDay": 723,
     "timeWeek": 692,
@@ -223,7 +223,7 @@
       "2022-04-15": 699,
       "2022-04-14": 930,
       "2022-04-13": 886,
-      "2022-04-12": 223
+      "2022-04-12": 171
     }
   },
   {
