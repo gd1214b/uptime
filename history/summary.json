@@ -183,9 +183,9 @@
     "url": "https://music.gd1214b.tk/",
     "icon": "https://favicons.githubusercontent.com/music.gd1214b.tk",
     "slug": "netease-music",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -195,6 +195,8 @@
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2022-04-22": 0,
+      "2022-04-21": 0,
       "2022-04-15": 23
     }
   },
@@ -205,13 +207,13 @@
     "slug": "win11-react",
     "status": "up",
     "uptime": "81.90%",
-    "uptimeDay": "39.37%",
-    "uptimeWeek": "39.36%",
+    "uptimeDay": "40.19%",
+    "uptimeWeek": "39.47%",
     "uptimeMonth": "81.90%",
     "uptimeYear": "81.90%",
     "time": 438,
     "timeDay": 676,
-    "timeWeek": 717,
+    "timeWeek": 656,
     "timeMonth": 438,
     "timeYear": 438,
     "dailyMinutesDown": {
